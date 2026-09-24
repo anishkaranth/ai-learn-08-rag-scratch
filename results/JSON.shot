@@ -12,6 +12,6 @@
   "baseline_answer_accuracy": 0.0,
   "faithfulness": 1.0,
   "rag_beats_baseline": true,
-  "runtime_s": 0.302,
+  "runtime_s": 0.016,
   "seed": 42
 }
