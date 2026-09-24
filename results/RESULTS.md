@@ -13,7 +13,7 @@
 | Baseline answer accuracy (no retrieval) | 0.0000 (0/22) |
 | Faithfulness (retrieved contains gold) | 1.0000 (22/22) |
 | RAG beats baseline | PASS |
-| Wall time (CPU) | 0.27s |
+| Wall time (CPU) | 0.02s |
 
 ## Per-query checks
 
